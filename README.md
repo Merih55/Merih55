@@ -55,8 +55,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Merih55/Merih55/output/snake.svg" alt="Snake animation" />
-
-###
