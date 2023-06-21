@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Merih Can ÇELENK</h1>
 
-###
+
 
 <h4 align="left">Welcome to my GitHub profile.My name is Merih and I'm a Junior Web Developer, from Turkey.</h4>
 
@@ -9,7 +9,7 @@
 
 
 <h4 align="left">Connect with me:</h4>
-<hr>
+
 ###
 
 <div align="left">
@@ -30,7 +30,7 @@
 ###
 
 <h4 align="left">I code with</h4>
-<hr>
+
 ###
 
 <div align="left">
